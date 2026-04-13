@@ -22,25 +22,27 @@
     "url": "https://app.zestnexus.com",
     "icon": "https://icons.duckduckgo.com/ip3/app.zestnexus.com.ico",
     "slug": "zest-nexus-app",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 753,
     "timeDay": 808,
     "timeWeek": 753,
     "timeMonth": 753,
     "timeYear": 753,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-04-13": 1
+    }
   },
   {
     "name": "APIs",
     "url": "https://api.zestnexus.com",
     "icon": "https://icons.duckduckgo.com/ip3/api.zestnexus.com.ico",
     "slug": "ap-is",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -51,7 +53,9 @@
     "timeWeek": 732,
     "timeMonth": 732,
     "timeYear": 732,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-04-13": 0
+    }
   },
   {
     "name": "Client App",
